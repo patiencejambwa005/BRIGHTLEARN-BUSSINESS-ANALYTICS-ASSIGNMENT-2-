@@ -1,10 +1,10 @@
-# BrightLearn Business Analytics Assignments
+# BrightLearn Business Analytics Assignment 2 
 
 
 
-This repository contains my assignments and research work completed as part of my BrightLearn Business Analytics studies.
+This repository contains my assignment and research work completed as part of my BrightLearn Business Analytics studies.
 
-The purpose of these assignments is to build my understanding of business analytics, data analysis, and how data can be used to support business decision-making.
+The purpose of this assignment is to build my understanding of business analytics, data analysis, and how data can be used to support business decision-making.
 
 
 
@@ -14,7 +14,7 @@ This assignment focuses on Business Analytics Terminology. It covers important c
 
 *Skills and Knowledge*
 
-Through these assignments, I am developing my understanding of:
+Through this  assignment I am developing my understanding of:
 
 - Business Analytics
 - Data Analytics
